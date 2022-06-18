@@ -7,7 +7,7 @@ I have a website at: http://illusion0001.github.io/
 Projects I am working on:
 
 - [py-patch](https://github.com/illusion0001/py-patcher)
-- [Game Patches for PlayStation 4](https://illusion0001.github.io/patch/#patches)
+- [Game Patches for Modified Consoles](https://illusion0001.github.io/patch/#patches)
 
 - 📫 How to reach me: [Twitter](https://twitter.com/illusion0002/), Discord at `illusion#3185` or my email: illusion3185@gmail.com
 
